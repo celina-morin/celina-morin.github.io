@@ -2,7 +2,7 @@ baseURL: https://celina-morin.github.io/
 title: 线上展览
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2024-{year} [国吟文化拍卖集团](https://celina-morin.github.io/). All Rights Reserved."
-defaultContentLanguage: zh-hans
+defaultContentLanguage: 'zh-hans'
 defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
 timeout: 120s
