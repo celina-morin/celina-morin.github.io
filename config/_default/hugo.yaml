@@ -1,8 +1,8 @@
-baseURL: https://celina-morin.github.io/
-title: 线上展览
+baseURL: http://www.sinodawn.net/
+title: Echoes of Insight
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2024-{year} [国吟文化拍卖集团](https://celina-morin.github.io/). All Rights Reserved."
-defaultContentLanguage: 'zh-hans'
+copyright: "Copyright © 2024-{year} [SinoDawn](http://www.sinodawn.net). All Rights Reserved."
+defaultContentLanguage: 'en'
 defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
 timeout: 120s
@@ -13,8 +13,9 @@ title_sections_depth: 0 # the depth of sections on the title.
 title_sections_depth_dir: end # when start, the depth is counting from the root sections.
 
 permalinks:
-  blog: /blog/:year/:month/:title
+  all: /all/:year/:month/:title
   news: /news/:year/:month/:title
+  docs: /docs/:year/:month/:title
 
 outputs:
   home:

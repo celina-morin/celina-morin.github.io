@@ -2,7 +2,7 @@
 title: 归档
 menu:
   main:
-    parent: blog
+    parent: all
     params:
       icon:
         vendor: bs

@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: 随笔
 type: docs
 description: Notes that Inspire, Ideas that Thrive.
 menu:

@@ -1,26 +1,26 @@
-description: The cards theme template of HB (Hugo Bootstrap) Framework.
+description: Explore, Learn, Grow
 
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   full_width: false # when true, the layout takes full width globally.
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
+    # brand: HB # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      github: hbstack
+      github: Sudiaty
       # twitter: razonyang
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      # mastodon: https://techhub.social/@hbstack
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: hbstack
-      twitter: razonyang
+      github: Sudiaty
+      # twitter: razonyang
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      # mastodon: https://techhub.social/@hbstack
   blog:
     list_cols_md: 2
     list_cols_lg: 3
@@ -41,11 +41,11 @@ hb:
         # title: Profile title other than site title.
         # description: Profile description other than site description.
         avatar_size: 100
-        company: COMPANY
-        location: Earth
+        company: Nirvanst.Ar
+        location: Hong Kong
         socials:
-          github: hbstack
-          mastodon: https://techhub.social/@hbstack
+          github: Sudiaty
+          # mastodon: https://techhub.social/@hbstack
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
@@ -74,7 +74,7 @@ hb:
           limit: 20
           # title: Popular Tags # override the title.
     paginate: 12 # paginate.
-    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    # post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
@@ -82,18 +82,18 @@ hb:
       featured_posts: 5 # the number of the featured posts, 0 means disabled.
       pinned_posts_position: "list"
       main_sections: # leave it empty to include all regular pages.
-        - docs
-        - blog
-        - news
+        # - wiki
+        # - all
+        # - news
     giscus:
-      repo: hbstack/theme-cards
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo: Sudiaty/ebed
+      repo_id: R_kgDONYNt1g
+      category_id: DIC_kwDONYNt1s4Ck4nj
   docs:
     giscus:
-      repo: hbstack/theme-cards
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo: Sudiaty/ebed
+      repo_id: R_kgDONYNt1g
+      category_id: DIC_kwDONYNt1s4Ck4nj
     social_share_buttons:
       alignment: center
       media:
@@ -103,9 +103,9 @@ hb:
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme-cards
+      repo: Sudiaty/Sudiaty
       branch: main
-      subpath: exampleSite
+      # subpath: exampleSite
   # gallery:
   #   thumbnail_size: "x640"
   # google_fonts:

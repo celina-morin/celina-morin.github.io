@@ -1,6 +1,6 @@
 main:
   - identifier: all
-    name: All
+    name: 全部
     weight: 100
     params:
       icon:

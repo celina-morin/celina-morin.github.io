@@ -1,5 +1,5 @@
 ---
-title: Authors
+title: 作者
 menu:
   main:
     parent: all
@@ -8,5 +8,5 @@ menu:
         vendor: bs
         name: people-fill
         color: '#0f5e97'
-      description: Authors list.
+      description: 作者列表。
 ---

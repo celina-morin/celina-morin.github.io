@@ -3,7 +3,7 @@
   "description": "The cards theme of [HB Framework](https://hbstack.dev/).",
   "scripts": {
     "dev": "hugo server --gc -D",
-    "prod": "hugo server --gc --disableFastRender --renderToDisk --minify -e production -p 1314"
+    "prod": "hugo server --gc --disableFastRender --minify -e production -p 1314"
   },
   "repository": {
     "type": "git",
